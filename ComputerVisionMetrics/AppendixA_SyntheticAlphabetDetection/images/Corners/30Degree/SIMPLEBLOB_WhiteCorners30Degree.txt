@@ -1,0 +1,12 @@
+x: 844.370972 y: 898.370972 response: 0.000000 size: 3.092824 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 290.122223 y: 555.211121 response: 0.000000 size: 3.171394 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 529.004211 y: 541.790161 response: 0.000000 size: 3.097210 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 183.086029 y: 369.704315 response: 0.000000 size: 3.133630 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 728.151123 y: 841.151733 response: 0.000000 size: 3.172342 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 575.011780 y: 763.550842 response: 0.000000 size: 3.326309 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 535.526550 y: 1076.483032 response: 0.000000 size: 3.522670 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 366.295349 y: 925.738403 response: 0.000000 size: 3.525611 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 295.079163 y: 802.636230 response: 0.000000 size: 3.909607 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 1072.209595 y: 725.608276 response: 0.000000 size: 4.002768 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 1055.224365 y: 695.801270 response: 0.000000 size: 2.956206 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 706.463440 y: 66.382111 response: 0.000000 size: 3.809046 angle: -1.000000 octave: 0 class_id: 4294967295

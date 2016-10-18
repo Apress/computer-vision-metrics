@@ -1,0 +1,7 @@
+x: 529.185730 y: 365.776733 response: 0.000000 size: 16.568380 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 578.181335 y: 641.654602 response: 0.000000 size: 17.553490 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 658.165405 y: 485.120789 response: 0.000000 size: 15.703793 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 787.003479 y: 177.867111 response: 0.000000 size: 20.274355 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 844.743347 y: 736.093872 response: 0.000000 size: 14.213336 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 59.249523 y: 306.927521 response: 0.000000 size: 14.897152 angle: -1.000000 octave: 0 class_id: 4294967295
+x: 472.813354 y: 232.655045 response: 0.000000 size: 13.738100 angle: -1.000000 octave: 0 class_id: 4294967295

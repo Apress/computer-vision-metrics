@@ -1,0 +1,335 @@
+TEST START 
+0Degree
+BlackCornerPoints
+***  TestName SURF 28579 
+*** SURF BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 28579 :: keypoints_g.size() = 28579
+523 516 433 574 381 468
+664 361 428 607 523 484
+346 368 375 487 525 388
+690 470 622 672 442 505
+692 348 654 750 417 351
+513 647 436 426 451 434
+704 567 501 566 591 577
+829 660 738 620 565 492
+540 404 697 531 504 522
+***  TestName SIFT 17996 
+*** SIFT BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 17996 :: keypoints_g.size() = 17996
+528 456 576 872 282 350
+785 780 480 764 576 493
+78 288 480 432 523 1097
+301 192 576 960 384 389
+240 96 192 480 576 609
+0 6 16 486 362 222
+118 22 216 10 208 32
+21 0 88 164 48 292
+51 0 0 382 351 66
+***  TestName BRISK 1852 
+*** BRISK BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 1852 :: keypoints_g.size() = 1852
+16 44 85 20 85 86
+50 3 104 2 25 7
+21 179 86 35 3 45
+58 112 62 61 0 2
+60 143 37 17 9 3
+0 97 0 1 4 2
+0 0 0 0 14 88
+2 96 0 0 0 0
+0 88 0 0 0 0
+***  TestName FAST 2112 
+*** FAST BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 2112 :: keypoints_g.size() = 2112
+0 0 96 0 96 96
+0 0 96 0 0 0
+0 192 96 0 0 0
+192 96 96 192 0 0
+192 96 96 96 0 0
+0 96 0 0 0 0
+0 0 0 0 0 96
+0 96 0 0 0 0
+0 96 0 0 0 0
+***  TestName HARRIS 28616 
+*** HARRIS BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 28616 :: keypoints_g.size() = 28616
+652 788 612 788 688 576
+480 488 624 480 480 488
+192 288 528 384 480 480
+628 596 500 612 496 496
+532 404 396 428 432 432
+260 332 332 388 456 552
+1232 848 752 1232 824 968
+576 480 480 576 576 480
+192 288 288 384 384 288
+***  TestName GFFT 32720 
+*** GFFT BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 32720 :: keypoints_g.size() = 32720
+694 846 654 846 778 668
+480 624 576 480 480 488
+192 384 480 384 480 480
+926 726 638 926 768 656
+590 430 430 542 464 472
+330 362 362 490 456 432
+1180 988 916 1116 1022 788
+832 616 760 800 736 352
+384 384 528 536 576 192
+***  TestName MSER 32720 
+*** MSER BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 0 :: keypoints_g.size() = 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+***  TestName ORB 40162 
+*** ORB BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 40162 :: keypoints_g.size() = 40162
+841 887 874 812 1160 1022
+776 820 876 597 827 941
+617 919 925 521 645 753
+1012 898 1034 1044 1041 1037
+862 851 890 696 889 843
+473 856 783 454 633 722
+510 683 793 498 608 784
+425 673 591 378 606 678
+391 686 594 423 466 544
+***  TestName STAR 5932 
+*** STAR BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 5932 :: keypoints_g.size() = 5932
+154 147 20 108 158 279
+231 142 50 70 238 308
+82 82 70 305 154 226
+154 147 105 185 154 159
+232 70 40 210 77 103
+34 101 27 100 308 231
+46 39 78 40 20 77
+74 70 28 0 71 126
+0 0 0 0 0 2
+***  TestName SIMPLEBLOB 5932 
+*** SIMPLEBLOB BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 0 :: keypoints_g.size() = 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+WhiteCornerPoints
+***  TestName SURF 28821 
+*** SURF BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 28821 :: keypoints_g.size() = 28821
+516 531 502 634 422 458
+627 391 486 597 465 444
+369 410 426 503 497 451
+574 512 558 611 509 578
+688 385 601 886 445 344
+441 559 466 401 466 515
+676 650 619 537 544 548
+860 662 643 595 596 523
+584 454 653 441 507 461
+***  TestName SIFT 17515 
+*** SIFT BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 17515 :: keypoints_g.size() = 17515
+464 396 420 738 182 360
+699 722 650 592 528 413
+262 372 624 504 518 860
+279 168 372 900 480 566
+206 185 296 564 492 568
+8 24 28 326 416 371
+49 128 124 102 136 42
+39 0 160 20 0 323
+175 90 0 0 316 258
+***  TestName BRISK 2286 
+*** BRISK BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 2286 :: keypoints_g.size() = 2286
+81 73 72 96 144 86
+83 55 100 32 22 31
+18 154 102 8 23 91
+43 48 30 48 36 27
+52 26 9 18 20 17
+0 92 14 0 35 20
+0 8 12 0 12 54
+5 77 0 0 86 38
+0 96 72 0 20 0
+***  TestName FAST 2304 
+*** FAST BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 2304 :: keypoints_g.size() = 2304
+0 20 104 0 96 96
+0 0 96 0 0 0
+0 180 96 0 0 0
+144 60 60 144 0 0
+192 96 96 96 0 0
+48 144 48 48 0 0
+0 0 0 0 0 72
+0 76 0 0 76 24
+0 96 76 0 20 0
+***  TestName HARRIS 29210 
+*** HARRIS BIN COUNTS :: featureIsOutsideRegion = 106 :: binningCount = 29104 :: keypoints_g.size() = 29210
+600 656 592 740 680 524
+492 636 656 480 480 487
+252 336 524 444 492 481
+683 587 460 729 583 583
+588 378 382 398 449 437
+418 416 415 439 472 580
+1011 701 603 1034 730 716
+724 568 568 636 592 496
+276 276 352 472 448 352
+***  TestName GFFT 31578 
+*** GFFT BIN COUNTS :: featureIsOutsideRegion = 130 :: binningCount = 31448 :: keypoints_g.size() = 31578
+704 758 626 842 607 608
+494 691 576 480 481 489
+252 433 444 444 492 457
+877 673 570 930 765 717
+650 488 475 508 452 439
+462 440 440 632 515 524
+921 705 608 924 784 689
+896 670 672 744 442 350
+480 458 458 632 336 244
+***  TestName MSER 31578 
+*** MSER BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 0 :: keypoints_g.size() = 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+***  TestName ORB 40373 
+*** ORB BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 40373 :: keypoints_g.size() = 40373
+868 880 845 821 1114 986
+777 849 899 593 901 879
+584 877 899 528 685 746
+993 943 1006 1064 1179 1014
+865 792 891 672 768 735
+563 923 887 584 802 828
+471 714 792 479 603 808
+385 608 562 352 663 726
+341 616 617 403 465 528
+***  TestName STAR 6178 
+*** STAR BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 6178 :: keypoints_g.size() = 6178
+127 138 30 163 183 224
+220 143 70 70 247 265
+104 126 80 295 134 199
+113 133 85 220 165 202
+205 83 110 210 88 71
+12 40 32 33 265 282
+42 72 76 77 148 92
+74 73 89 0 46 140
+31 0 0 0 0 51
+***  TestName SIMPLEBLOB 96 
+*** SIMPLEBLOB BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 96 :: keypoints_g.size() = 96
+0 0 0 0 0 0
+0 0 0 0 0 0
+84 0 0 0 0 0
+12 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+GrayCornerPoints
+***  TestName SURF 26406 
+*** SURF BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 26406 :: keypoints_g.size() = 26406
+520 485 384 509 381 463
+664 361 427 607 518 401
+344 368 371 487 525 385
+681 414 526 643 442 505
+580 294 512 650 417 351
+395 606 333 379 348 377
+694 551 461 524 530 418
+750 562 651 543 612 346
+520 381 677 530 494 509
+***  TestName SIFT 16122 
+*** SIFT BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 16122 :: keypoints_g.size() = 16122
+528 456 576 800 282 350
+785 780 480 668 576 492
+78 288 480 408 514 1097
+301 192 576 960 384 389
+240 96 192 480 576 609
+0 6 16 486 362 222
+109 22 16 10 208 32
+0 0 0 0 0 0
+0 0 0 0 0 0
+***  TestName BRISK 550 
+*** BRISK BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 550 :: keypoints_g.size() = 550
+4 2 17 5 33 0
+26 6 19 0 0 6
+0 108 0 0 0 3
+2 4 8 2 22 5
+2 0 5 0 2 3
+0 88 0 0 0 2
+0 0 0 0 19 22
+0 69 0 0 2 0
+0 64 0 0 0 0
+***  TestName FAST 2112 
+*** FAST BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 2112 :: keypoints_g.size() = 2112
+0 0 96 0 96 96
+0 0 96 0 0 0
+0 192 96 0 0 0
+192 96 96 192 0 0
+192 96 96 96 0 0
+0 96 0 0 0 0
+0 0 0 0 0 96
+0 96 0 0 0 0
+0 96 0 0 0 0
+***  TestName HARRIS 29760 
+*** HARRIS BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 29760 :: keypoints_g.size() = 29760
+692 788 596 788 712 576
+480 576 600 480 480 512
+192 288 408 384 480 480
+756 660 556 740 552 664
+596 436 428 444 424 424
+380 412 412 444 456 552
+1248 864 768 1248 824 968
+576 480 480 576 576 480
+192 288 288 384 384 288
+***  TestName GFFT 32597 
+*** GFFT BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 32597 :: keypoints_g.size() = 32597
+742 846 638 846 772 689
+480 664 560 480 480 560
+192 384 384 384 480 480
+976 776 672 976 776 768
+624 448 456 568 424 448
+416 432 432 592 456 432
+1098 930 802 1098 929 751
+814 624 677 768 640 341
+384 384 416 520 496 192
+***  TestName MSER 32597 
+*** MSER BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 0 :: keypoints_g.size() = 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+***  TestName ORB 37665 
+*** ORB BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 37665 :: keypoints_g.size() = 37665
+811 833 820 781 1025 939
+710 764 838 581 815 831
+555 877 880 491 626 646
+981 866 1001 1012 987 988
+835 830 871 684 885 820
+471 834 746 416 622 697
+492 642 754 483 588 750
+358 604 518 331 565 640
+275 566 487 340 399 504
+***  TestName STAR 4251 
+*** STAR BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 4251 :: keypoints_g.size() = 4251
+154 147 20 108 158 273
+231 140 50 70 238 308
+82 77 70 165 154 226
+154 147 75 185 154 159
+155 70 0 70 0 103
+0 0 0 0 154 154
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+***  TestName SIMPLEBLOB 4251 
+*** SIMPLEBLOB BIN COUNTS :: featureIsOutsideRegion = 0 :: binningCount = 0 :: keypoints_g.size() = 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0

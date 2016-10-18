@@ -1,0 +1,21 @@
+texture for object:     JFK.png
+area:                   343, 344 
+gray value moments:     min:23    max:255    mean:122  
+moments:                adev:27.7159  sdev:35.9701  svar:1293.8485  skew:-0.479999  curt:3.674250 
+
+                      ---------------------------------------------------------------------------
+                         0deg		90deg		135deg		45deg		ave
+                      ---------------------------------------------------------------------------
+xcentroid                115		115		115		115		115 
+ycentroid                115		115		115		115		115 
+low_frequency_coverage   0.075		0.092		0.103		0.108		0.095 
+total_coverage           0.831		0.818		0.781		0.780		0.803 
+corrected_coverage       0.755		0.726		0.678		0.672		0.708 
+total_power              2.000		3.000		5.000		5.000		3.750 
+relative_power           17.000		19.000		23.000		23.000		20.500 
+locus_length             71		72		71		70		71 
+locus_mean_density       79		80		74		76		77 
+bin_mean_density         21		19		16		16		18 
+containment              0.961		0.932		0.926		0.912		0.933 
+linearity                0.867		0.848		0.848		0.848		0.853 
+linearity_strength       1.526		1.557		0.973		1.046		1.276 
